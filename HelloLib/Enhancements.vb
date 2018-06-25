@@ -1,5 +1,5 @@
 ﻿''' <summary>
-''' Globale Funktionserweiterungen über Shared Sub & Functions
+''' Globale Funktionserweiterungen über Shared Sub und Functions
 ''' </summary>
 Public Class Enhancements
 
